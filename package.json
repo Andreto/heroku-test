@@ -1,0 +1,22 @@
+{
+  "name": "heroku-test",
+  "version": "1.0.0",
+  "description": "testing heroku deployment from github",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Andreto/heroku-test"
+  },
+  "author": "Andreto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Andreto/heroku-test"
+  },
+  "homepage": "https://github.com/Andreto/heroku-test",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
